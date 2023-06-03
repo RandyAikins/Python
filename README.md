@@ -1,3 +1,3 @@
 # Python_fundamentals
 
-This respository is contains some basic coding practised on Python basic concepts
+This respository is contains some basic coding practised on basic Python concepts
